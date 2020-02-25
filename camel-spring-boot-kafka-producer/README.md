@@ -59,3 +59,4 @@ $ ./kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic kodtodya
 ** Run application as spring-boot app or java-app
 
 ** After running the example, check your console consumer; it should print the messages
+** stop the console-consumer and start spring-boot-kafka-consumer-example by building it; it will consume all the messages.
