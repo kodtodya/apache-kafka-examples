@@ -34,7 +34,9 @@ $ netstat -anp | grep 9092
 ```
 $ ps -aux | grep <pid>
 ```
+
 You can also verify the kafka logs in `_kafka-2.4.0/data/kafka-logs` folder
+
 ** congrats, your kafka server is up and running.
 -----------------------------------------------------------------------------------------------------------------------------
 
