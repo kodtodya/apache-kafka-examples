@@ -16,7 +16,7 @@ $ ./zookeeper-server-start.sh -daemon ../config/zookeeper.properties
 ```
 --> this will not print anything; you can verify that kafka server is started using below command:
 ```
-$ netstat a-np | grep 2181
+$ netstat -anp | grep 2181
 ```
 --> you can also go to `_kafka-2.4.0/data/zookeeper` directory; you will observe new log directory created as 'version-*' (* represent any number)
 
