@@ -1,3 +1,3 @@
-/home/kodtodya/_tech/_codebase/_fuse/_birlasoft/spring-boot-kafka-consumer-example/src/main/java/com/kodtodya/practice/SpringBootKafkaExample.java
-/home/kodtodya/_tech/_codebase/_fuse/_birlasoft/spring-boot-kafka-consumer-example/src/main/java/com/kodtodya/practice/config/KafkaConsumerConfig.java
-/home/kodtodya/_tech/_codebase/_fuse/_birlasoft/spring-boot-kafka-consumer-example/src/main/java/com/kodtodya/practice/consumer/KafkaMsgSubscriber.java
+/home/kodtodya/_my-space/_system/_codeBase/fuse-7-examples/_fuse-on-spring-boot/spring-boot-kafka-consumer-example/src/main/java/com/kodtodya/practice/config/KafkaConsumerConfig.java
+/home/kodtodya/_my-space/_system/_codeBase/fuse-7-examples/_fuse-on-spring-boot/spring-boot-kafka-consumer-example/src/main/java/com/kodtodya/practice/SpringBootKafkaExample.java
+/home/kodtodya/_my-space/_system/_codeBase/fuse-7-examples/_fuse-on-spring-boot/spring-boot-kafka-consumer-example/src/main/java/com/kodtodya/practice/consumer/KafkaMsgSubscriber.java
